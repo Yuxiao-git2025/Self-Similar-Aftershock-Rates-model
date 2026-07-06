@@ -1,0 +1,23 @@
+b=1.080
+b(as)=g+z=0.900
+alpha=z+p*g=0.999
+
+# [1] dt<10^2.0 =100.00 s
+#     [1-1] Mc=1.6
+#           Events ratio=79.74
+#           Select ratio=1.22
+#           Using=3652
+#     [1-2] Mc=1.8
+#           Events ratio=50.71
+#           Select ratio=1.22
+#           Using=2328
+# [2] dt<10^2.8 =630.96 s
+#     [2-1] Mc=1.6
+#           Events ratio=79.74
+#           Select ratio=3.50
+#           Using=10498
+#     [2-2] Mc=1.8
+#           Events ratio=50.71
+#           Select ratio=3.56
+#           Using=6785
+# (The plotting will show 1*sigma) 
